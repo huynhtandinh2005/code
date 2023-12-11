@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-	cout << "Con cac dinh ngu ";
+	cout << "This is my homework for software engineering subject ";
 }
